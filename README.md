@@ -1,0 +1,4 @@
+bashColorProfile
+================
+
+colors for Bash
